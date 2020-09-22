@@ -2,6 +2,7 @@
 
 int main()
 {
+    //2 4 5 8 6 5 7 4
     int szam=0, id=0, tovabb=0;
     int szamsor[50];
 
