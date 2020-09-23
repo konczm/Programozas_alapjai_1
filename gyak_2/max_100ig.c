@@ -1,9 +1,9 @@
 #include<stdio.h>
 
+/* Bendegúz megoldása */
 int main()
 {
 
-    //Bendegúzé
     int a, max, max_szam;
     int i;
     max=0;

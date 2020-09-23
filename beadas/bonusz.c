@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void){
-    //3 40000 EUR
+    /* 3 40000 EUR */
     int ker_kat, kereset, bonusz;
     scanf("%d %d", &ker_kat, &kereset);
     switch (ker_kat)
