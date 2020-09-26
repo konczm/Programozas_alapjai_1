@@ -18,16 +18,17 @@ int main()
             else
                 tovabb = 2;  
         }
+
         else if(tovabb == 1 && szam > szamsor[id-1]){
             szamsor[id] = szam;
             id++;
-            tovabb = 1;
         }
+
         else if(tovabb == 2 && szam < szamsor[id-1]){
             szamsor[id] = szam;
             id++;
-            tovabb = 2;
         }
+
         else
             tovabb = 0;        
 
